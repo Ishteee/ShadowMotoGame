@@ -20,6 +20,15 @@ In Shadow Moto, players must ride their dirt bike to the finish line across a hi
 
 ---
 
+## Try It Out
+
+You can download and play the game directly using the ShadowMoto.exe provided in this repository.
+
+> **File:** `ShadowMoto.exe`  
+> Simply download and run the file to start playing the game on Windows.
+
+---
+
 ## Technologies Used
 
 - Unity (2D)
